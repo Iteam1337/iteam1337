@@ -1,5 +1,5 @@
 {
-  "name": "iteam1337",
+  "name": "iteam",
   "version": "1.0.0",
   "description": "Personal npm card for Iteam Solutions (@iteam1337)",
   "main": "index.html",
@@ -49,7 +49,7 @@
       "twitter": "iteam1337",
       "npm": "iteam",
       "github": "iteam1337",
-      "linkedin": "company/iteam1337",
+      "linkedin": "iteam1337",
       "lookingFor": "Frontend, Backend, UX, Team Coach",
       "applyAt": "https://iteam.se/jobba-hos-oss"
     },
